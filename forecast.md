@@ -2,8 +2,5 @@
 
 ## Today
 
-Cloudy with a chance of Sun.
+Cloudy with a chance of meatballs.
 
-## Tomorrow
-
-Morning rainbows followed by
